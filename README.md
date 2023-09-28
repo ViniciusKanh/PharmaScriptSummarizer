@@ -30,7 +30,9 @@ O objetivo é desenvolver um sistema automatizado apto a reconhecer e sumarizar 
 
 ---
 
-## 🛠️ Instalação e Uso
+## 📥 Instalação e Uso
+
+Para clonar o repositório, execute o seguinte comando no seu terminal:
 
 ```bash
 # Clone o repositório
@@ -46,7 +48,7 @@ pip install -r requirements.txt
 python main.py
 
 ```
-## 🔧 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - [Python](https://www.python.org/)
 - [Pytesseract](https://pypi.org/project/pytesseract/)
